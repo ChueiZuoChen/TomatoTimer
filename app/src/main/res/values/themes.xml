@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Timer" parent="Theme.MaterialComponents.Light" />
+</resources>
